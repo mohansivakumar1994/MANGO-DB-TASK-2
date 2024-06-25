@@ -1,0 +1,11 @@
+TABLE codeKata {
+ id Number
+ name String
+ difficultyLevel String
+ decScription string
+ winnableCoins Number
+ category Number
+ testCases String
+ createdAt timestamp
+ updatedAt timestamp
+}

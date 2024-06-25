@@ -1,0 +1,11 @@
+TABLE attendence {
+ id Number
+ studentId Number
+ sessionId Number
+ sessionType String
+ isPresent bool
+ isTaskSubmissionNeeded bool
+ isTaskSubmitted bool
+ createdDate timestamp
+ updatedDate timestamp
+}

@@ -1,0 +1,9 @@
+TABLE submissions {
+  id Number
+  userId Number
+  taskId Number
+  marks Number
+  type String 
+  createdAt timestamp
+  updatedAt timestamp
+}

@@ -1,0 +1,13 @@
+TABLE batches {
+ id Number
+ name String
+ courseType Number
+ batchType String
+ language String
+ batchStartTime timestamp
+ batchEndTime timestamp
+ mentors Array
+ coordinatorId Number
+ createdAt timestamp
+ updatedAt timestamp
+}

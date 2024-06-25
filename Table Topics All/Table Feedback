@@ -1,0 +1,9 @@
+TABLE feedback {
+ id Number
+ mentorId Number
+ topicId Number
+ sessionRating Number
+ mentorRating Number
+ sessionFeedback String
+ mentorFeedback String
+}

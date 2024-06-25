@@ -1,0 +1,23 @@
+[{
+  "drives": "id",
+  "{": "Number"
+},
+{
+  "drives": "companyName",
+  "{": "String"
+},
+{
+  "drives": "driveDate",
+  "{": "timestamp"
+},
+{
+  "drives": "createdDate",
+  "{": "timestamp"
+},
+{
+  "drives": "updatedDate",
+  "{": "timestamp"
+},
+{
+  "TABLE": "}"
+}]

@@ -1,0 +1,13 @@
+TABLE topics {
+ id Number
+ name String
+ scheduledDate timestamp
+ content String
+ preRead string
+ sessionDetails string
+ taskDetails string
+ batchId Number
+ createdDate timestamp
+ updatedDate timestamp
+ 
+}
